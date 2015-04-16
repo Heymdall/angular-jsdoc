@@ -47,6 +47,11 @@ header
     margin-top: 1em;
 }
 
+#main {
+    float: left;
+    width: 70%;
+}
+
 section
 {
     display: block;
